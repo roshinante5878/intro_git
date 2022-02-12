@@ -1,3 +1,4 @@
 初めてのgit
 基本的なワークフローを学びます
 aaaaa
+git commit
